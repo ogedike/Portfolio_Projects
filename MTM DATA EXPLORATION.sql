@@ -1,3 +1,11 @@
+--EXPLORING CUSTOMER DATA COLLECTED FROM JAN 23 - JUN 23 FOR THE MADE TO MEASURE SERVICE OF A TAILORING SHOP I WORK FOR IN ORDER TO GAIN VALUABLE INSIGHTS INTO 
+--CUSTOMER BEHAVIOUR BASED ON A SET NUMBER OF CHARACTERISTICS, WHICH WAS USED TO ASSIST THE MARKETING TEAM IN OPTIMISING THEIR DIGITAL MARKETING STRATEGY. 
+
+--Data was collected manually over a 6 month period and stored in a secure Excel spreadsheet. This contained information on the customers name, what they purchased, 
+--their age, reason for purchase and whether they were new or returning customers, amongst other variables. All of the data was either quantitative or boolean. 
+
+--Please note that due to client confidentiality, the database name has been changed for this file. 
+
 SELECT *
 FROM Client.dbo.mtm
 
